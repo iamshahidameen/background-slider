@@ -1,6 +1,6 @@
 <div align="center">
 
-![Project Screenshot](https://50projects50days.com/img/projects-img/20-button-ripple-effect.png)
+![Project Screenshot](https://50projects50days.com/img/projects-img/18-background-slider.png)
 
 </div>
 
